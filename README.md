@@ -1,8 +1,8 @@
-## 💜 Olá, meu nome é <strong>Priscilla Araujo!</strong>
+## ❤ Olá, meu nome é <strong>Priscilla Araujo!</strong>
 
-Sou advogada, trabalhei por seis anos em demandas empresariais. Durante a pandemia, com ajuda do meu esposo, que é programador há 10 anos, conheci e me apaixonei pela tecnologia. A partir daí decidi iniciar minha jornada como dev. Atualmente curso Analise e Desenvolvimento de Sistemas. Além da graduação já realizei diversos cursos na área. 
+Sou advogada, trabalhei por seis anos em demandas empresariais. Durante a pandemia, com ajuda do meu esposo, que é programador há 10 anos, conheci e me apaixonei pela tecnologia. A partir daí decidi iniciar minha jornada como dev. Atualmente curso Analise e Desenvolvimento de Sistemas. Além da graduação já realizei diversos cursos na área.
 
-🔭 Atualmente estou concluindo o curso de Java 2022 Completo da Udemy.
+📝 Atualmente estou concluindo o curso de Java 2022 Completo da Udemy.
 
 <div> 
 <div>
