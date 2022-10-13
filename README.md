@@ -1,5 +1,5 @@
 ## ❤ Hi, I´m <strong>Priscilla Araujo!</strong>
-<h3>A developer in passionate frontend training from Brazil who currently lives in Portugal.</h3>
+<h3 align="left">A developer in passionate frontend training from Brazil who currently lives in Portugal.</h3>
 <h4>I am also a mother, wife, lawyer and full stack development student! I worked for six years as a lawyer in business demands. During the pandemic, with the help of my husband, who has been a programmer for 10 years, I met and fell in love with technology. From there I decided to start my journey as a developer. Currently course Analysis and Development of Systems. In addition to graduation I have already done several courses in the area.</h4>
 
 - 🌱 I’m currently learning **ReactJs, Javascript, CSS, HTML, Java, etc.**
