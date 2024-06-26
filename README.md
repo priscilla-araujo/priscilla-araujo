@@ -7,6 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/priscilla-araujo](https://github.com/priscilla-araujo)
 
 - 📫 How to reach me **priscillacarvalhoaraujo@gmail.com**
+  
+-🎂 My first Project: www.thecake.pt
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
