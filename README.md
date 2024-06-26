@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **priscillacarvalhoaraujo@gmail.com**
   
--🎂 My first Project: www.thecake.pt
+- 🎂 My first Project: www.thecake.pt
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
